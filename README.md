@@ -1,6 +1,6 @@
 # Artificial Intelligence in Cybersecurity
 
-An Introduction to Cybersecurity (SEC1101) final research project by Abdulrahman Ali Alhazmi, dated 20 December 2025.
+An Introduction to Cybersecurity (SEC1101) final research project, dated 20 December 2025.
 
 ## Repository status
 
@@ -36,7 +36,7 @@ The work is a literature review: it organizes and compares existing sources rath
 
 - University: Umm Al-Qura University.
 - Course: SEC1101, Introduction to Cybersecurity.
-- Author: Abdulrahman Ali Alhazmi.
+- Team size: 1 member (individual project).
 - Date on the submitted paper: 20 December 2025.
 - Original length: 21 PDF pages.
 
@@ -46,4 +46,4 @@ This is a literature-based research report, not an implemented security tool, tr
 
 ## Publication
 
-Academic portfolio documentation. Team credits are retained. No license has been selected.
+Academic portfolio documentation. No license has been selected.
