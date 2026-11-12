@@ -4,11 +4,11 @@ An Introduction to Cybersecurity (SEC1101) final research project, dated 20 Dece
 
 ## Repository status
 
-This repository currently publishes the project overview. The supporting files described below are prepared locally but have not yet been uploaded to GitHub. File paths describe that prepared package; they are not download links.
+This repository includes the original academic project files, documentation and available illustrations. Team credits and verification limits are preserved below.
 
 ## Research paper
 
-Read the paper — `docs/research-paper.md`
+[Read the paper](docs/research-paper.md)
 
 The original 21-page PDF is titled “The Dual-Use Dilemma: A Comprehensive Analysis of Artificial Intelligence in Cybersecurity—Defensive Automations, Offensive Weaponization, and the Adversarial Frontier”. It covers defensive AI, offensive misuse, adversarial machine learning, governance and ethics, and includes references.
 
